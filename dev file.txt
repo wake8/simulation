@@ -1,1 +1,2 @@
-Hello there develop branch file
+Hello there develop branch file,
+A file deleted
